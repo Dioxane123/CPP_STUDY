@@ -2,6 +2,11 @@
 > Started since: 13, September, 2023
 ___
 ## Learning Log
-> 22, September, 2023
 
-Find and pull the git respority.
+### 22, September, 2023
+- Find and pull the git respority.
+- Finish the lab01 in week01.
+
+
+### 23, September, 2023
+- Try to understand how to debug in vscode.
