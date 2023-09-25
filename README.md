@@ -11,3 +11,4 @@ ___
 - Try to understand how to debug in vscode.
 
 ### 25, September, 2023
+- Finish the lab02 in week02.
