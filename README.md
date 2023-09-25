@@ -7,6 +7,7 @@ ___
 - Find and pull the git respority.
 - Finish the lab01 in week01.
 
-
 ### 23, September, 2023
 - Try to understand how to debug in vscode.
+
+### 25, September, 2023
