@@ -12,3 +12,10 @@ ___
 
 ### 25, September, 2023
 - Finish the lab02 in week02.
+
+### 28, September, 2023
+- Learned hook in pytorch.
+
+### 29, September, 2023
+- Finish the lab03 in week03.
+- Finish the lab04 in week04.
