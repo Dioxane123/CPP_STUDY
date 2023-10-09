@@ -1,3 +1,0 @@
-/Users/dioxane/Desktop/CPP_STUDY/build/CMakeFiles/test.dir
-/Users/dioxane/Desktop/CPP_STUDY/build/CMakeFiles/edit_cache.dir
-/Users/dioxane/Desktop/CPP_STUDY/build/CMakeFiles/rebuild_cache.dir

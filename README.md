@@ -23,3 +23,6 @@ ___
 ### 3rd, October, 2023
 - Taking mostly part of week05.
 - Update the fomate of date.
+
+### 9th, October, 2023
+- Finish the lab05 in week05.
