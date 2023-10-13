@@ -26,3 +26,12 @@ ___
 
 ### 9th, October, 2023
 - Finish the lab05 in week05.
+
+### 11th, October, 2023
+- Finish watching the video of week06.
+- Taking mostly part of week06.
+- Add the .gitignore file.
+
+### 12th, October, 2023
+- Finish the lab06 in week06
+- Update the .gitignore file.
