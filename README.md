@@ -41,3 +41,7 @@ ___
 - Finish the lab07 in week07.
 - Update the .gitignore file.
 > 几乎一个学期没学这个了,有点对不起上学期初兴致勃勃要一学期拿下的自己TAT.寒假前几天学习效率很低，基本没怎么动,对不起每天早上发誓好好学的自己.那么定一个目标吧:明天完成week08与week09.
+
+### 8th, February, 2024
+- Finish watching the video of week08.
+> week08主要讲了用SIMD等方法直接进行寄存器操作来加快代码运行，自己理解需要一定难度，故没有实践.
